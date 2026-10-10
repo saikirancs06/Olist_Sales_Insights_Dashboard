@@ -2,48 +2,55 @@
 
 ## Project Overview
 
-An interactive sales analytics dashboard built using Microsoft Power BI and the Olist Brazilian E-Commerce dataset. The dashboard analyzes order performance, revenue trends, product categories, and order status distribution.
+An interactive dashboard built in Microsoft Power BI Desktop using the Olist Brazilian E-Commerce dataset. It explores sales performance, revenue trends, product categories, and order fulfillment.
 
 ## Key Performance Indicators
 
-* Total Orders
-* Delivered Orders
-* Total Product Revenue
-* Delivery Rate
+* Total Orders: 99,441
+* Delivered Orders: 96,478
+* Total Product Revenue: 13,591,643.70
+* Delivery Rate: 97.02%
 
-## Dashboard Visualizations
+*Revenue represents product prices and excludes freight charges.*
+
+## Dashboard Features
 
 * Monthly Revenue Trend
 * Revenue by Product Category
 * Order Status Distribution
 * Top 10 Product Categories by Revenue
+* Interactive visuals and filtering
 
-## Tools & Technologies
+## Tools and Technologies
 
 * Microsoft Power BI Desktop
 * Power Query
-* DAX (Data Analysis Expressions)
-* Data Modeling and Relationships
+* DAX
+* Data Modeling
 * Data Visualization
 
-## Key Skills Demonstrated
+## Skills Demonstrated
 
-* Data import and transformation
-* Relationship modeling
-* DAX measure creation
-* KPI development
-* Interactive dashboard design
-* Business insight communication
+Data preparation, relationship modeling, measure creation, KPI development, business analysis, and dashboard design.
 
 ## Dataset
 
 Olist Brazilian E-Commerce Public Dataset.
 
-## Project Files
+## Dashboard Screenshots
 
-* `Olist_Sales_Insights_Dashboard.pbix` — Power BI report
-* `screenshots/` — Dashboard screenshots
+### Overview
+
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Revenue Trend
+
+![Revenue Trend](screenshots/revenue_trend.png)
+
+### Category Analysis
+
+![Category Analysis](screenshots/category_analysis.png)
 
 ## Business Objective
 
-To provide a clear overview of e-commerce sales performance and help users explore revenue patterns, product category performance, and order fulfillment outcomes.
+To provide an accessible view of e-commerce sales performance and help users explore revenue patterns, category performance, and order fulfillment outcomes.
